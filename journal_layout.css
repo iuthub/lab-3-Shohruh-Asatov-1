@@ -1,0 +1,63 @@
+.first{
+	
+	background-color:#A8F0F0;
+	margin-bottom:10px ;
+	text-align:right ;
+}
+.second{
+font-size:14pt;	
+/*margin:10px; 
+padding: 5px;*/
+
+}
+.Whole{
+	border:10px white solid;
+	background-color: white;
+		
+	margin-left:10% ;
+	margin-right:10% ;
+	
+}
+.About_cookie, .movie {
+	border:4px #C2E9E9 solid;
+	background-color:  #E8FBFB;
+	
+}
+.flex1{
+	display:flex; 
+	flex-flow: row nowrap;
+	margin:0 left;
+	flex:order;
+}
+p{
+	color:blue;
+}
+h1,h2 {
+	color:#36ADF8;
+}
+#date1{
+	margin-left: 3px;
+	border-bottom:2px blue dashed 
+}
+#date2{
+	margin-left: 3px;
+	border-bottom:2px blue dashed;
+}
+.About_cookie{
+	margin-bottom:10px;
+}
+#first_text{
+	order:1;
+}
+#first_picture{
+	order:2;
+	margin-right:2px;}
+
+#second_text{
+	order:1;
+}
+#second_picture{
+	margin-right:2px;
+	order:2;	
+}
+
